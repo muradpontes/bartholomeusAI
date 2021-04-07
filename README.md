@@ -32,6 +32,7 @@ $ python3 -m pip install -r requirements.txt
 
   ## usage
 ``` just write, it's a chat!
+```
 
 <p align=center>
   <img src="https://i.imgur.com/hQbeGJG.png" width="100" height="60">
