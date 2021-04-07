@@ -19,7 +19,8 @@ $ cd bartholomeusAI
 # install python3 and python3-pip if they are not installed
 
 # install the requirements
-$ python3 -m pip install -r requirements.txt
+# chatterbot using pip 
+$ pip install ChatterBot
 ```
 
   ## debug "attribute error" 👾
@@ -32,7 +33,8 @@ $ python3 -m pip install -r requirements.txt
 
   ## usage
 ``` 
-just write whatever you want in the white box, then you'll see what bartholomeus have to say! 🐱 
+# just write whatever you want in the white box
+# you'll see what bartholomeus have to say! 🐱 
 ```
 
 <p align=center>
