@@ -11,6 +11,11 @@
 
 ```console
 
+# clone the repo
+$ git clone https://github.com/ohhhio/bartholomeusAI.git
+
+# change the working directory to bartholomeusAI
+$ cd bartholomeusAI
 # install python3 and python3-pip if they are not installed
 
 # install the requirements
