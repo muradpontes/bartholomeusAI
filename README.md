@@ -24,9 +24,8 @@ $ python3 -m pip install -r requirements.txt
 ```
 
 <p align=center>
-  <br>
+  <img src="https://i.imgur.com/hQbeGJG.png" width="100" height="60">
+<br>
   <span>enjoy!
   <br>
-
-  <img src="https://i.imgur.com/hQbeGJG.png" width="100" height="60">
 </p>
