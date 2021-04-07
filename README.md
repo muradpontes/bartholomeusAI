@@ -1,4 +1,5 @@
 <p align=center>
+  <h>bartholomeusAI</h>
 
   <img src="https://i.imgur.com/8VhDMdu.png"/>
 
