@@ -11,7 +11,7 @@
 
 ```console
 
-# clone the repo
+# clone the repo 🌀
 $ git clone https://github.com/ohhhio/bartholomeusAI.git
 
 # change the working directory to bartholomeusAI
@@ -22,7 +22,7 @@ $ cd bartholomeusAI
 $ python3 -m pip install -r requirements.txt
 ```
 
-  ## debug "attribute error"
+  ## debug "attribute error" 👾
 ```console
 # time.clock() has been removed, so you need to change it to time.perf_counter()
 
@@ -31,7 +31,8 @@ $ python3 -m pip install -r requirements.txt
 ```
 
   ## usage
-``` just write, it's a chat!
+``` 
+just write whatever you want in the white box, then you'll see what bartholomeus have to say! 🐱 
 ```
 
 <p align=center>
