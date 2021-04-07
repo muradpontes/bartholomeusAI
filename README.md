@@ -23,9 +23,11 @@ $ python3 -m pip install -r requirements.txt
 # if you have vscode, open bartholomeusAI and press "ctrl+click" in time.clock() path after the error message appears
 ```
 
-enjoy!
-
 <p align=center>
+  <br>
+  <span>an interactive chatbot made with chatterbot + tkinter!
+  <br>
+</p>
 
   <img src="https://i.imgur.com/hQbeGJG.png" width="100" height="60">
 </p>
