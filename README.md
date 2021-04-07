@@ -25,9 +25,8 @@ $ python3 -m pip install -r requirements.txt
 
 <p align=center>
   <br>
-  <span>an interactive chatbot made with chatterbot + tkinter!
+  <span>enjoy"
   <br>
-</p>
 
   <img src="https://i.imgur.com/hQbeGJG.png" width="100" height="60">
 </p>
