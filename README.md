@@ -1,6 +1,6 @@
 <p align=center>
   <br>bartholomeusAI</br>
-  <img src="https://i.imgur.com/8VhDMdu.png"/>
+  <img border-top:10px; src="https://i.imgur.com/8VhDMdu.png"/>
 <br>
   <span>an interactive chatbot made with chatterbot + tkinter!
   <br>
