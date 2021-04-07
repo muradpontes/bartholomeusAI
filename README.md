@@ -26,4 +26,4 @@ enjoy!
 
 <p align=center>
 
-  <img src="https://i.imgur.com/8VhDMdu.png"/>
+  <img src="https://imgur.com/hQbeGJG"/>
