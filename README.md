@@ -5,6 +5,7 @@
 <br>
   <span>an interactive chatbot made with chatterbot + tkinter!
   <br>
+</p>
   
   ## installation
 
@@ -26,4 +27,5 @@ enjoy!
 
 <p align=center>
 
-  <img src="https://i.imgur.com/hQbeGJG.png"/ width="200" height="40">
+  <img src="https://i.imgur.com/hQbeGJG.png" width="200" height="40">
+</p>
