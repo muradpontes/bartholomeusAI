@@ -1,5 +1,5 @@
 <p align=center>
-  <h>bartholomeusAI</h>
+  <br>bartholomeusAI</br>
   <img src="https://i.imgur.com/8VhDMdu.png"/>
 <br>
   <span>an interactive chatbot made with chatterbot + tkinter!
