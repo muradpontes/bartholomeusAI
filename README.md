@@ -1,4 +1,4 @@
-<h align=center; color=#8AF6FF>bartholomeusAI</h>
+<h align=center>bartholomeusAI</h>
 <p align=center>
   <img src="https://i.imgur.com/8VhDMdu.png"/>
 <br>
