@@ -1,9 +1,9 @@
 <p align=center>
 
-  <img src="https://i.imgur.com/qZ20A2h.png"/>
+  <img src="https://i.imgur.com/8VhDMdu.png"/>
 
 <br>
-  <span>An interative chatbot made with chatterbot + tkinter!
+  <span>An interactive chatbot made with chatterbot + tkinter!
   <br>
   
   ## Installation
