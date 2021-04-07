@@ -27,5 +27,5 @@ enjoy!
 
 <p align=center>
 
-  <img src="https://i.imgur.com/hQbeGJG.png" width="100" height="100">
+  <img src="https://i.imgur.com/hQbeGJG.png" width="160" height="100">
 </p>
