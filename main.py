@@ -1,7 +1,7 @@
 #libs
 import chatterbot
-import random
-import time
+from random import choice
+from time import sleep
 
 from tkinter import *
 from chatterbot import ChatBot
@@ -15,8 +15,8 @@ chatbot = ChatBot('x')
 # Create a new trainer for the chatbot
 trainer = ChatterBotCorpusTrainer(chatbot)
 
-# Train the chatbot based on my corpus
-trainer.train('./data/yml/english') # -> português
+# Train the chatbot based on my corpus(using english now)
+trainer.train('./data/yml/english') 
 #trainer.train('chatterbot.corpus.english.greeting')
 
 class App:
@@ -42,8 +42,7 @@ class App:
         self.chatbox1['bg'] = 'black'
         self.chatbox1['fg'] = 'white'
         self.chatbox1['width'] = 42
-        self.chatbox1['height'] = 1
-        #self.chatbox1['font'] = 13
+        self.chatbox1['height'] = 
         self.chatbox1.pack()
 
         self.chatbox2 = Label(self.firstContainer1, text='', justify=LEFT, anchor='nw') #caixa de mensagem2
@@ -52,7 +51,6 @@ class App:
         self.chatbox2['fg'] = 'white'
         self.chatbox2['width'] = 42
         self.chatbox2['height'] = 2
-        #self.chatbox2['font'] = 13
         self.chatbox2.pack()
 
         self.sendingMessage = Entry(self.secondContainer) #input
@@ -94,11 +92,10 @@ class App:
 
         if text_message in userGreetings:
             if text_message!='':
-                time.sleep(0.25)
-                self.chatbox2['text'] = random.choice(botGreetings)
+                sleep(0.25)
+                self.chatbox2['text'] = choice(botGreetings)
                 print('\a')
         else:
-            #time.sleep(0.25)
             self.chatbox2['text'] = chatbot.get_response(text_message)
             print('\a')
 
