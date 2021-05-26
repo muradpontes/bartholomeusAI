@@ -33,8 +33,10 @@ $ pip install ChatterBot
 
 # open vscode and run main.py
 # after the error message appears, press "ctrl+click" in time.clock  
+
 # if you're not using vscode, go to 
 # ".AppData\Local\Programs\Python\Python38\lib\site-packages\sqlalchemy\util\"
+
 # open compat.py, go to line 264
 # change 'time.clock' to 'time.perf_counter'
 
