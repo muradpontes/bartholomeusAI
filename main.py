@@ -9,6 +9,7 @@ from chatterbot.trainers import ChatterBotCorpusTrainer
 
 root = Tk()
 root.geometry('292x320')
+root.iconbitmap('./img/ico.ico')
 
 chatbot = ChatBot('x')
 
