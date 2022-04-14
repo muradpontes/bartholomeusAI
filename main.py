@@ -43,7 +43,7 @@ class App:
         self.chatbox1['bg'] = 'black'
         self.chatbox1['fg'] = 'white'
         self.chatbox1['width'] = 42
-        self.chatbox1['height'] = 
+        self.chatbox1['height'] = 2
         self.chatbox1.pack()
 
         self.chatbox2 = Label(self.firstContainer1, text='', justify=LEFT, anchor='nw') #caixa de mensagem2
